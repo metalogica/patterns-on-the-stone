@@ -1,0 +1,30 @@
+{
+  "name": "patterns-on-the-stone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava ./test/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalogica/patterns-on-the-stone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metalogica/patterns-on-the-stone/issues"
+  },
+  "homepage": "https://github.com/metalogica/patterns-on-the-stone#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "ava": "^5.2.0"
+  }
+}
